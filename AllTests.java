@@ -6,5 +6,5 @@ import org.junit.platform.suite.api.Suite;
 @Suite
 @SelectClasses({ countATest.class, totalWordsTest.class })
 public class AllTests {
-
+ 
 }
